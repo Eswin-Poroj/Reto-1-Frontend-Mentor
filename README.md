@@ -29,8 +29,8 @@ In this project I only used HTML 5 and CSS, using various concepts such as flexb
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://eswin-poroj.github.io/Reto-1-Frontend-Mentor/)
+- Live Site URL: [Add live site URL here](https://eswin-poroj.github.io/Reto-1-Frontend-Mentor/)
 
 ## My process
 
@@ -52,5 +52,5 @@ In this project I used GitHub Copilot about two times, to resolve some doubts th
 
 ## Author
 
-- Frontend Mentor - [@yEswin-Poroj](https://www.frontendmentor.io/profile/Eswin-Poroj)
+- Frontend Mentor - [@Eswin-Poroj](https://www.frontendmentor.io/profile/Eswin-Poroj)
 - Twitter - [@PorojCastro](https://www.twitter.com/PorojCastro)
